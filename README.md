@@ -1,0 +1,1 @@
+# Métodos para arrays (funciones de alto nivel)
